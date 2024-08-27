@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blazter25
+- 👋 Hi, I’m Angel Martinez
 - 👀 I’m interested in Learning differents languajes
 - 🌱 I’m currently learning JavaScript, Rust, C#..
 - 📫 How to reach me Ig ac_gm25, Yt Blazter2526, X Blazter25
