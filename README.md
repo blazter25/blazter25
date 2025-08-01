@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, Rust, C#..
 - 📫 How to reach me Ig ac_gm25, Yt Blazter2526, X Blazter25
 - 😄 Pronouns: Fulo
-- ⚡ Fun fact: Very Competitive in all aspect of my life.
 
 <!---
 blazter25/blazter25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
